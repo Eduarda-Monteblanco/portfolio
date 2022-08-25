@@ -30,26 +30,16 @@
       <ul>
         <li><a href="#built-with">Construido com</a></li>
         <li><a href="#license">License</a></li>
-        <li><a href="#contact">Contact</a></li>
+        <li><a href="#contact">Contato</a></li>
       </ul>
     </li>
-
-
-
   </ol>
 </details>
 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
-
+### Sobre o projeto
 
 ### Built With
 
@@ -61,7 +51,7 @@ Here's a blank template to get started:
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distribuido sobre a licença MIT.
 
 
 
