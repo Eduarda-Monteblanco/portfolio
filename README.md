@@ -41,7 +41,7 @@
 <!-- ABOUT THE PROJECT -->
 ### Sobre o projeto
 
-### Built With
+### Construido com
 
 * [Css]()
 * [Html]()
@@ -49,14 +49,14 @@
 
 
 <!-- LICENSE -->
-## License
+## Linceça
 
 Distribuido sobre a licença MIT.
 
 
 
 <!-- CONTACT -->
-## Contact
+## Contato
 
 Eduarda Monteblanco - Eduardamonteblanco@gmail.com
 
