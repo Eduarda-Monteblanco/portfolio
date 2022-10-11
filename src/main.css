@@ -159,7 +159,7 @@ body {
 }
 
 #main {
-  grid-template-columns: repeat(1, 300px);
+  grid-template-columns: repeat(1, 200px);
   align-items: center;
   justify-content: center;
 
@@ -192,7 +192,7 @@ body {
   justify-content: center;
 }
 .card {
-  padding: auto;
+  height: 220px;
 }
   .metade {
       width: 100%;
